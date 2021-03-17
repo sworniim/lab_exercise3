@@ -1,3 +1,3 @@
 # scrolling view
 ### App screenshot
-![](./scroll_view.png)
+![](./sub_scroll.png)
