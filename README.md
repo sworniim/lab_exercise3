@@ -1,3 +1,3 @@
-# First App
+# scrolling view
 ### App screenshot
-![](./TextandScrollView.png)
+![](./scroll_view.png)
